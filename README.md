@@ -1,4 +1,4 @@
 # hello-world
-First repository
+First repository:
 Learning about SQL and GitHub as a hobby.
 Good practice for future work. 
